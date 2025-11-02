@@ -12,3 +12,5 @@ ai/.env
 test/*
 .idea/
 .cursorrules
+
+docs/

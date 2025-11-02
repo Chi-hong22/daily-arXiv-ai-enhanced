@@ -1,2 +1,3 @@
 data/** merge=ours
+docs/** merge=ours
 assets/file-list.txt merge=ours
