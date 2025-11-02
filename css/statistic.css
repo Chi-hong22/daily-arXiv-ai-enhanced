@@ -285,7 +285,7 @@
     max-width: 100% !important;
     display: flex !important;
     flex-wrap: wrap !important;
-    justify-content: flex-start !important;
+    /* justify-content: flex-start !important; */
     padding: 0 !important;
 }
 
@@ -294,9 +294,9 @@
     height: 36px !important;
     line-height: 36px !important;
     border-radius: 50% !important;
-    max-width: 36px !important;
-    width: calc(100% / 7 - 4px) !important;
-    flex: 0 0 calc(100% / 7 - 4px) !important;
+    /* max-width: 36px !important; */
+    width: calc(100% / 7) !important;
+    flex: 0 0 calc(100% / 7 ) !important;
     display: inline-flex !important;
     justify-content: center !important;
     align-items: center !important;
